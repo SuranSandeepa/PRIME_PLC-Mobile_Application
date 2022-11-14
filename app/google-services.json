@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095164005209",
+    "firebase_url": "https://project-3dadd-default-rtdb.firebaseio.com",
+    "project_id": "project-3dadd",
+    "storage_bucket": "project-3dadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095164005209:android:34a15f27f29559b7491a48",
+        "android_client_info": {
+          "package_name": "com.example.ead_procument"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095164005209-dac2qr42gkloaq9dgb2vl2i4jgkelk0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAicj5kMvdCNMHvRAQNBS5HTv7nbT_NEnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095164005209-dac2qr42gkloaq9dgb2vl2i4jgkelk0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
